@@ -61,12 +61,11 @@ $ Press F5 to run the application
 ## Credits
 This software uses the following open source packages:
 
-$ C#
-$ SQL Server
-$ Visual Studio
+- [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
+- [SQL Client](https://www.nuget.org/packages/System.Data.SqlClient)
 
 ## License
-$ MIT
+MIT
 
 ---
 
