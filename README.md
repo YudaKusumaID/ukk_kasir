@@ -1,9 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="https://github.com/YudaKusumaID/ukk_kasir/blob/main/logo.png?raw=true" alt="SimplePOS" width="200">
-  <br>
   SimplePOS
-  <br>
 </h1>
 
 <h4 align="center">A simple Point of Sale (POS) application built with C# Windows Forms and SQL Server.</h4>
@@ -67,3 +63,18 @@ $ start SimplePOS.sln
 
 # Build the solution
 $ Press F5 to run the application
+
+## Credits
+This software uses the following open source packages:
+
+$ C#
+$ SQL Server
+$ Visual Studio
+
+## License
+$ MIT
+
+---
+
+> GitHub [@YudaKusumaID](https://github.com/YudaKusumaID) &nbsp;&middot;&nbsp;
+> Instagram [@yuda._kusuma](https://instagram.com/yuda._kusuma)
