@@ -50,7 +50,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Visu
 $ git clone https://github.com/YudaKusumaID/ukk_kasir.git
 
 # Go into the repository
-$ cd simplepos
+$ cd ukk_kasir
 
 # Open the solution in Visual Studio
 $ start ukk_kasir.sln
