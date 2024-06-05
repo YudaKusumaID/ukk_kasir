@@ -43,17 +43,17 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Visual Studio](https://visualstudio.microsoft.com/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Visual Studio](https://visualstudio.microsoft.com/), and [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yourusername/simplepos
+$ git clone https://github.com/YudaKusumaID/ukk_kasir.git
 
 # Go into the repository
 $ cd simplepos
 
 # Open the solution in Visual Studio
-$ start SimplePOS.sln
+$ start ukk_kasir.sln
 
 # Build the solution
 $ Press F5 to run the application
