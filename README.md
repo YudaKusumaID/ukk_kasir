@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/simplepos">
-    <img src="https://badge.fury.io/js/simplepos.svg" alt="Gitter">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Gitter">
   </a>
   <a href="https://gitter.im/simplepos/community"><img src="https://badges.gitter.im/simplepos/community.svg"></a>
   <a href="https://saythanks.io/to/youremail@example.com">
