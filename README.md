@@ -28,8 +28,6 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://via.placeholder.com/800x400)
-
 ## Key Features
 
 * **Sales Management**
@@ -63,7 +61,7 @@ $ start SimplePOS.sln
 
 # Build the solution
 $ Press F5 to run the application
-
+```
 ## Credits
 This software uses the following open source packages:
 
