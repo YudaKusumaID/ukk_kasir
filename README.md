@@ -52,6 +52,9 @@ $ git clone https://github.com/YudaKusumaID/ukk_kasir.git
 # Go into the repository
 $ cd ukk_kasir
 
+# Import the database to SQL Server
+$ Right database menu and select Import thier Data-tier Application
+
 # Open the solution in Visual Studio
 $ start ukk_kasir.sln
 
