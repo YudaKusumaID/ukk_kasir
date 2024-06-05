@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://via.placeholder.com/200" alt="SimplePOS" width="200">
+  <img src="https://github.com/YudaKusumaID/ukk_kasir/blob/main/logo.png?raw=true" alt="SimplePOS" width="200">
   <br>
   SimplePOS
   <br>
