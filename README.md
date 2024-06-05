@@ -40,8 +40,6 @@
   - Robust backend with SQL Server for data management.
 * **Easy to Use Interface**
   - Intuitive and user-friendly Windows Forms interface.
-* **Cross Platform**
-  - Compatible with Windows OS.
 
 ## How To Use
 
