@@ -40,8 +40,6 @@
   - Keep track of stock levels, products, and suppliers.
 * **Customer Management**
   - Store and manage customer information.
-* **Reporting**
-  - Generate sales and inventory reports.
 * **User Management**
   - Administer user roles and permissions.
 * **SQL Server Integration**
@@ -66,4 +64,4 @@ $ cd simplepos
 $ start SimplePOS.sln
 
 # Build the solution
-# Press F5 to run the application
+$ Press F5 to run the application
