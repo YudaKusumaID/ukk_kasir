@@ -9,15 +9,17 @@
 <h4 align="center">A simple Point of Sale (POS) application built with C# Windows Forms and SQL Server.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/simplepos">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Gitter">
   </a>
-  <a href="https://gitter.im/simplepos/community"><img src="https://badges.gitter.im/simplepos/community.svg"></a>
-  <a href="https://saythanks.io/to/youremail@example.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
-  <a href="https://www.paypal.me/YourPaypal">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  <a href="https://visualstudio.microsoft.com/">
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/yuda._kusuma/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </p>
 
